@@ -16,14 +16,8 @@ I am an undergraduate student at Lovely Professional University, passionate abou
 * **Deployment & Version Control:** Git, GitHub, Vercel
 * **Workflow & AI:** VS Code, NotebookLM, Gemini
 
-## 📈 GitHub Stats
-
-![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Das-Tushar&show_icons=true&theme=radium)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Das-Tushar&layout=compact&theme=radium)
-
 ---
 📫 **How to reach me:** 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-das-834227380)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tushardas4696@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=tushardas4696@gmail.com)
